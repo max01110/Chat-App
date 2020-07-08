@@ -2,7 +2,7 @@
 
 Available at http://maximemichet.tk/
 
-##Description
+## Description
 - An online chat application using web sockets!
 ## Coded With
 - Node.js
