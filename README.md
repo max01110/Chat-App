@@ -1,6 +1,6 @@
 # Chat-App
 
-Available at http://maximemichet.tk/
+Available at https://michet-chat-app.herokuapp.com/
 
 ## Description
 - An online chat application using web sockets!
